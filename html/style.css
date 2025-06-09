@@ -429,7 +429,7 @@ html, body {
 ========================= */
 .titre-projets {
   display: inline-block;
-  background: #fff;
+  background:  rgba(255, 255, 255, 0.85);
   padding: 1rem 2rem;
   border-radius: 12px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
@@ -469,7 +469,7 @@ html, body {
 
 /* Bloc projet */
 .projet {
-  background: #fff;
+  background:  rgba(255, 255, 255, 0.85);
   border-radius: 12px;
   overflow: hidden;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
